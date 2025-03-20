@@ -1,6 +1,6 @@
 ## 💜 Hi, I'am Matheus Lima!
 
-## And...I am currently a software engineering student 🦄
+## 💌 And...I am currently a software engineering student 🦄
 
 ## 🔭 I really like to explore new technologies
 
