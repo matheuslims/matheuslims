@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
+![](https://komarev.com/ghpvc/?username=matheuslims&color=006bed)
 ## ✌ Hey, Matheus Lima aqui...
 
 ## 💬 Sobre mim
@@ -43,6 +43,6 @@
 
 ## 🌐 Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devmatheuslima/)]
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:omatheusdasilvalima@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/matheuslims?label=follow&style=social)]
+![Linkedin](https://img.shields.io/badge/-matheuslims-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devmatheuslima/)
+![Gmail Badge](https://img.shields.io/badge/-omatheusdasilvalima@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:omatheusdasilvalima@gmail.com)
+![GitHub](https://img.shields.io/github/followers/matheuslims?label=follow&style=social)
